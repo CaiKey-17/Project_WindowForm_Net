@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{616177E0-E1D8-403F-8D1F-664D0127DA8E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Net</RootNamespace>
+    <AssemblyName>Net</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangNhapAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangNhapAdmin.Designer.cs">
+      <DependentUpon>dangNhapAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangNhapNguoiChoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangNhapNguoiChoi.Designer.cs">
+      <DependentUpon>dangNhapNguoiChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="datMonAn.Designer.cs">
+      <DependentUpon>datMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="doimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doimatkhau.Designer.cs">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lichsugiaodich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lichsugiaodich.Designer.cs">
+      <DependentUpon>lichsugiaodich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manhinhNguoiChoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manhinhNguoiChoi.Designer.cs">
+      <DependentUpon>manhinhNguoiChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="maytinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="maytinh.Designer.cs">
+      <DependentUpon>maytinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="naptien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="naptien.Designer.cs">
+      <DependentUpon>naptien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NetDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NetDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="nguoichoiNapTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nguoichoiNapTien.Designer.cs">
+      <DependentUpon>nguoichoiNapTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phucvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="phucvu.Designer.cs">
+      <DependentUpon>phucvu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="themKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themKho.Designer.cs">
+      <DependentUpon>themKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="themNguoiChoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themNguoiChoi.Designer.cs">
+      <DependentUpon>themNguoiChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="themNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themNV.Designer.cs">
+      <DependentUpon>themNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thietbi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thietbi.Designer.cs">
+      <DependentUpon>thietbi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtin.Designer.cs">
+      <DependentUpon>thongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thuKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thuKho.Designer.cs">
+      <DependentUpon>thuKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thuNgan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thuNgan.Designer.cs">
+      <DependentUpon>thuNgan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangNhapAdmin.resx">
+      <DependentUpon>dangNhapAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangNhapNguoiChoi.resx">
+      <DependentUpon>dangNhapNguoiChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="datMonAn.resx">
+      <DependentUpon>datMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doimatkhau.resx">
+      <DependentUpon>doimatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lichsugiaodich.resx">
+      <DependentUpon>lichsugiaodich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manhinhNguoiChoi.resx">
+      <DependentUpon>manhinhNguoiChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="maytinh.resx">
+      <DependentUpon>maytinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="naptien.resx">
+      <DependentUpon>naptien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nguoichoiNapTien.resx">
+      <DependentUpon>nguoichoiNapTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="phucvu.resx">
+      <DependentUpon>phucvu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="themKho.resx">
+      <DependentUpon>themKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themNguoiChoi.resx">
+      <DependentUpon>themNguoiChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="themNV.resx">
+      <DependentUpon>themNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thietbi.resx">
+      <DependentUpon>thietbi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongtin.resx">
+      <DependentUpon>thongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thuKho.resx">
+      <DependentUpon>thuKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thuNgan.resx">
+      <DependentUpon>thuNgan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="NetDataSet.xsc">
+      <DependentUpon>NetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet.xss">
+      <DependentUpon>NetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet1.xsc">
+      <DependentUpon>NetDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet1.xss">
+      <DependentUpon>NetDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet10.xsc">
+      <DependentUpon>NetDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet10.xss">
+      <DependentUpon>NetDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet11.xsc">
+      <DependentUpon>NetDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet11.xss">
+      <DependentUpon>NetDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet12.xsc">
+      <DependentUpon>NetDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet12.xss">
+      <DependentUpon>NetDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet13.xsc">
+      <DependentUpon>NetDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet13.xss">
+      <DependentUpon>NetDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet14.xsc">
+      <DependentUpon>NetDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet14.xss">
+      <DependentUpon>NetDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet15.xsc">
+      <DependentUpon>NetDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet15.xss">
+      <DependentUpon>NetDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet2.xsc">
+      <DependentUpon>NetDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet2.xss">
+      <DependentUpon>NetDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet3.xsc">
+      <DependentUpon>NetDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet3.xss">
+      <DependentUpon>NetDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet4.xsc">
+      <DependentUpon>NetDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet4.xss">
+      <DependentUpon>NetDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet5.xsc">
+      <DependentUpon>NetDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet5.xss">
+      <DependentUpon>NetDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet6.xsc">
+      <DependentUpon>NetDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet6.xss">
+      <DependentUpon>NetDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet7.xsc">
+      <DependentUpon>NetDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet7.xss">
+      <DependentUpon>NetDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet8.xsc">
+      <DependentUpon>NetDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet8.xss">
+      <DependentUpon>NetDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet9.xsc">
+      <DependentUpon>NetDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="NetDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NetDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NetDataSet9.xss">
+      <DependentUpon>NetDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\437530415_812728327417438_6867572219846247645_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spider-man-no-way-home-movie-poster-5k-3a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mihaohao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\437530415_812728327417438_6867572219846247645_n1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuocloc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pepso.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ux.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devices.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warehouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receipt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graph.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receipt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-game-match-competition-and-teams-and-confrontation-versus-duel-headline-battle-image_388441.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nen2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\297, 317 - Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo-5-168327382295074608705.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kinh-nghiem-kinh-doanh-quan-net-thanh-cong-toi-uu-chi-phi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dish1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recharge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devices1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transaction.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

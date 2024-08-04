@@ -1,0 +1,175 @@
+C:\Users\caoky\Desktop\Net\Net\bin\Debug\Net.exe.config
+C:\Users\caoky\Desktop\Net\Net\bin\Debug\Net.exe
+C:\Users\caoky\Desktop\Net\Net\bin\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.exe
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.Admin.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.phucvu.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.thuKho.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.themKho.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.themNV.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.naptien.resources
+C:\Users\caoky\Desktop\Net\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\bin\Debug\Net.exe.config
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\bin\Debug\Net.exe
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\bin\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.Admin.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.naptien.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.phucvu.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.themKho.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.themNV.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.thuKho.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.exe
+C:\Users\caoky\Desktop\Net - Copy (4)\Net\obj\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\bin\Debug\Net.exe.config
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\bin\Debug\Net.exe
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\bin\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.Admin.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.naptien.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.phucvu.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.themKho.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.themNV.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.thuKho.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.exe
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.pdb
+C:\Users\caoky\Desktop\Net - Copy (5) - Copy\Net\obj\Debug\Net.nguoichoiNapTien.resources
+C:\Users\caoky\Desktop\Ok\Net\bin\Debug\Net.exe.config
+C:\Users\caoky\Desktop\Ok\Net\bin\Debug\Net.exe
+C:\Users\caoky\Desktop\Ok\Net\bin\Debug\Net.pdb
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.Admin.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.naptien.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.nguoichoiNapTien.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.phucvu.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.themKho.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.themNV.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.thuKho.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.exe
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.pdb
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.thongtin.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.maytinh.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.thietbi.resources
+C:\Users\caoky\Desktop\Ok\Net\obj\Debug\Net.lichsugiaodich.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\bin\Debug\Net.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\bin\Debug\Net.exe
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\bin\Debug\Net.pdb
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.Admin.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.lichsugiaodich.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.maytinh.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.naptien.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.nguoichoiNapTien.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.phucvu.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.themKho.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.themNV.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.thietbi.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.thongtin.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.thuKho.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.exe
+C:\Users\Admin\OneDrive\Máy tính\Ok\Net\obj\Debug\Net.pdb
+D:\Ok\Net\bin\Debug\Net.exe.config
+D:\Ok\Net\bin\Debug\Net.exe
+D:\Ok\Net\bin\Debug\Net.pdb
+D:\Ok\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+D:\Ok\Net\obj\Debug\Net.Admin.resources
+D:\Ok\Net\obj\Debug\Net.dangNhapAdmin.resources
+D:\Ok\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+D:\Ok\Net\obj\Debug\Net.datMonAn.resources
+D:\Ok\Net\obj\Debug\Net.doimatkhau.resources
+D:\Ok\Net\obj\Debug\Net.lichsugiaodich.resources
+D:\Ok\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+D:\Ok\Net\obj\Debug\Net.maytinh.resources
+D:\Ok\Net\obj\Debug\Net.naptien.resources
+D:\Ok\Net\obj\Debug\Net.nguoichoiNapTien.resources
+D:\Ok\Net\obj\Debug\Net.phucvu.resources
+D:\Ok\Net\obj\Debug\Net.Properties.Resources.resources
+D:\Ok\Net\obj\Debug\Net.themKho.resources
+D:\Ok\Net\obj\Debug\Net.themNguoiChoi.resources
+D:\Ok\Net\obj\Debug\Net.themNV.resources
+D:\Ok\Net\obj\Debug\Net.thietbi.resources
+D:\Ok\Net\obj\Debug\Net.thongtin.resources
+D:\Ok\Net\obj\Debug\Net.thuKho.resources
+D:\Ok\Net\obj\Debug\Net.thuNgan.resources
+D:\Ok\Net\obj\Debug\Net.csproj.GenerateResource.cache
+D:\Ok\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+D:\Ok\Net\obj\Debug\Net.exe
+D:\Ok\Net\obj\Debug\Net.pdb
+C:\Users\caoky\Desktop\TEMP\Ok\Net\bin\Debug\Net.exe.config
+C:\Users\caoky\Desktop\TEMP\Ok\Net\bin\Debug\Net.exe
+C:\Users\caoky\Desktop\TEMP\Ok\Net\bin\Debug\Net.pdb
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.Admin.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.dangNhapAdmin.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.dangNhapNguoiChoi.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.datMonAn.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.doimatkhau.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.lichsugiaodich.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.manhinhNguoiChoi.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.maytinh.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.naptien.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.nguoichoiNapTien.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.phucvu.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.themKho.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.themNguoiChoi.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.themNV.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.thietbi.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.thongtin.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.thuKho.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.thuNgan.resources
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.exe
+C:\Users\caoky\Desktop\TEMP\Ok\Net\obj\Debug\Net.pdb
